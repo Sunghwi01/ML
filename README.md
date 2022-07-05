@@ -17,3 +17,5 @@ Jupyter notebook 을 활용하여 사용
 ```python
 Jupyter notebook
 ```
+
+![image](C:\Users\LG\OneDrive\바탕 화면\python\ML\tree.jpg)
